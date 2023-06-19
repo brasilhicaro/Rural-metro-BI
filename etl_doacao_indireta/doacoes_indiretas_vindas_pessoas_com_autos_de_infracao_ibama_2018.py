@@ -14,4 +14,4 @@ df.rename(
 
 df = df.groupby(['deputado_cpf', 'doador_cpf_cnpj', 'nome_doador', 'doacoes_tipo', 'nome_urna'])['valor'].sum().reset_index()
 
-df.to_csv('../result_data/doacoes_indiretas/doacoes_diretas_vindas_pessoas_com_autos_de_mte_2018.csv')
+df.to_csv('../result_data/doacoes_indiretas/doacoes_indiretas_vindas_pessoas_com_autos_de_infracao_ibama_2018.csv')
