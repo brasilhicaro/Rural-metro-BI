@@ -1,4 +1,4 @@
-,cpf_deputado,doador_cpf,doador_nome,doacoes_tipo,nome_urna,valor
+,deputado_cpf,doador_cpf_cnpj,nome_doador,doacoes_tipo,nome_urna,valor
 0,263382893,23842130163,YOUSSEF SALIBA,direta,Dagoberto Nogueira,1500.0
 1,1739396782,585831904,ASSIS GURGACZ,direta,Silvia Cristina,50000.0
 2,1739396782,55454585904,CELSO LUIZ GARDA,direta,Silvia Cristina,1500.0

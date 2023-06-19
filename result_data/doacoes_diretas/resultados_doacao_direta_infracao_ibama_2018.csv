@@ -1,4 +1,4 @@
-,cpf_deputado,cpf_doador,nome_doador,doacoes_tipo,nome_urna,valor
+,deputado_cpf,doador_cpf_cnpj,nome_doador,doacoes_tipo,nome_urna,valor
 0,168780860,79867537815,GINO PAULUCCI JUNIOR,direta,Vitor Lippi,10000.0
 1,263382893,23842130163,YOUSSEF SALIBA,direta,Dagoberto Nogueira,1500.0
 2,731302060,781550025,GILBERTO CYRILLO HENRICH,direta,Marcel van Hattem,5000.0
