@@ -1,4 +1,4 @@
-,deputado_cpf,doador_cpf_cnpj,nome_doador,doacoes_tipo,nome_urna,valor
+index,deputado_cpf,doador_cpf_cnpj,nome_doador,doacoes_tipo,nome_urna,valor
 0,398099863,676262000170,PARTIDO DOS TRABALHADORES,direta,Carlos Zarattini,450000.0
 1,1102125334,6844237000135,DIRETORIO ESTADUAL DO PARTIDO PROGRESSISTA - PP -PI,direta,Júlio Cesar,42000.0
 2,1742564348,6844237000135,DIRETORIO ESTADUAL DO PARTIDO PROGRESSISTA - PP -PI,direta,Marcos Aurélio Sampaio,100000.0
